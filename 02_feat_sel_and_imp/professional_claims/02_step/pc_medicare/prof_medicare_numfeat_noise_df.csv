@@ -1,0 +1,11 @@
+feature_name,ge_noise
+count_of_holidays,500
+total_claim_charge_amount,492
+days_taken_for_claim_filing,491
+units_mean_quantity,363
+count_of_lineitems,349
+patient_age,339
+count_of_unique_HealthCareDiagnosisCode,300
+mins_mean_quantity,286
+LOS,254
+noise,0

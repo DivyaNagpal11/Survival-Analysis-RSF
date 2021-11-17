@@ -1,0 +1,8 @@
+{
+    "remits_cols" : ["Loop2100_CLP-Segment-ClaimPaymentInformation_CLP01-ClaimSubmitter’sIdentifier-1028", 
+                    "Loop2100_CLP-Segment-ClaimPaymentInformation_CLP02-ClaimStatusCode-1029",
+                    "Loop1000A_N1-Segment-PayerIdentification_N102-Name-93",
+                    "Loop1000A_N1-Segment-PayerIdentification_N104-IdentificationCode-67",
+                    "Segment_BPR-Segment-FinancialInformation_BPR16-Date-373"
+                   ]
+}

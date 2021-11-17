@@ -1,0 +1,15 @@
+feature_name,ge_noise
+count_of_holidays,500
+days_taken_for_claim_filing,472
+total_claim_charge_amount,390
+count_of_lineitems,306
+units_sum_quantity,301
+patient_age,285
+count_of_total_dx_codes,227
+LOS,201
+count_of_OccurrenceInformation,190
+count_of_ExternalCauseOfInjury_HI,190
+units_mean_quantity,178
+units_median_quantity,170
+days_mean_quantity,158
+noise,0

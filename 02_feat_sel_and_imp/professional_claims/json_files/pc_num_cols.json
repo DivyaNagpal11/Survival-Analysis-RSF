@@ -1,0 +1,23 @@
+[
+    "count_of_unique_ConditionInformation_HI",
+    "count_of_holidays",
+    "mins_mean_quantity",
+    "count_of_unique_HealthCareDiagnosisCode",
+    "count_of_AnesthesiaRelatedProcedure",
+    "units_median_quantity",
+    "patient_paid_amount",
+    "mins_sum_quantity",
+    "mins_median_quantity",
+    "count_of_unique_AnesthesiaRelatedProcedure",
+    "days_taken_for_claim_filing",
+    "LOS",
+    "subscriber_pat_weight",
+    "patient_age",
+    "count_of_ConditionInformation_HI",
+    "total_claim_charge_amount",
+    "count_of_lineitems",
+    "count_of_HealthCareDiagnosisCode",
+    "count_of_other_subscribers",
+    "units_mean_quantity",
+    "units_sum_quantity"
+]

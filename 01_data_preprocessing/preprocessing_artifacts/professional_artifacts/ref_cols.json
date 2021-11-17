@@ -1,0 +1,7 @@
+{
+    "ref_cols": [
+                "Segment_BHT-Segment-BeginningOfHierarchicalTransaction_BHT03-ReferenceIdentification-127",
+                "Segment_BHT-Segment-BeginningOfHierarchicalTransaction_BHT04-Date-373",
+                "Segment_BHT-Segment-BeginningOfHierarchicalTransaction_BHT05-Time-337",
+                "Loop2300_CLM-Segment-ClaimInformation_CLM01-ClaimSubmitter’sIdentifier-1028"]
+}

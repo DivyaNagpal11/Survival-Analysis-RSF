@@ -1,0 +1,10 @@
+{
+    "prof_claims_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/manual-uploads/hdx/Claims Data Extraction/Pickle files/complete837P_newdata.pkl",
+    
+    "remits_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/manual-uploads/hdx/Claims Data Extraction/Pickle files/New_Extraction_835_version2.0_reextraction.pkl",
+    
+    "hcpcs_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/CPT_HCPCS Code.csv",
+    "ccsr_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ICD10_CM_CCSR_Skimmed.csv",
+    "ndc_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/NDC_Codes_Concepts.csv",
+    "cond_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ConditionCodesSkimmedVer.csv",
+    "payers_claim_counts": "/home/ec2-user/SageMaker/Users/SP056963/ProfClaimsDataCombined.csv"}

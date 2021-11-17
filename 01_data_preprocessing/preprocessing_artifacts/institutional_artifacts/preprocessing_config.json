@@ -1,0 +1,17 @@
+{
+    "inst_claims_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/manual-uploads/hdx/Claims Data Extraction/Pickle files/Complete_837I_version2.pkl",
+    "remits_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/manual-uploads/hdx/Claims Data Extraction/Pickle files/New_Extraction_835_version2.0_reextraction.pkl",
+    
+    "drg_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/DRG.csv",
+    "val_codes_path" :  "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ValueCodes.csv",
+    "occur_span_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/OccurrenceSpan.csv",
+    "hcpcs_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/CPT_HCPCS Code.csv",
+    "ccs_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ICD10_PCS_CCS_Skimmed.csv",
+    "ccsr_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ICD10_CM_CCSR_Skimmed.csv",
+    "ndc_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/NDC_Codes_Concepts.csv",
+    "rev_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/revenuecode_hierarchy.csv",
+    "occur_info_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/OccurrenceInformation.csv",
+    "cond_codes_path" : "s3://cerner-mlecosystem-processing-us-west-2-dsprod/Codes Mapping/ConditionCodesSkimmedVer.csv",
+    "payer_claim_counts": "/home/ec2-user/SageMaker/Users/SP056963/InstClaimsDataCombined.csv",
+    "addtl_claims_data": "s3://cerner-mlecosystem-processing-us-west-2-dsprod/manual-uploads/hdx/Extracts Backup/Pickle files/837I_paired_version2.pkl"
+}

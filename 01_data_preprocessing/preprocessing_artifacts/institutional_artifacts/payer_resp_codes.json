@@ -1,0 +1,14 @@
+{
+    "P": "Primary",
+    "S": "Secondary", 
+    "T": "Tertiary", 
+    "A": "Payer Responsibility Four",
+    "B": "Payer Responsibility Five",
+    "C": "Payer Responsibility Six",
+    "D": "Payer Responsibilty Seven",
+    "E": "Payer Responsibility Eight",
+    "F": "Payer Responsibility Nine",
+    "G": "Payer Responsibility Ten",
+    "H": "Payer Responsibility Eleven",
+    "U": "Unknown"
+}
